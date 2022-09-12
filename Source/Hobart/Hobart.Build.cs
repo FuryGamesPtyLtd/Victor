@@ -10,5 +10,7 @@ public class Hobart : ModuleRules
         bEnforceIWYU = true;
 
         PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "Wakefield" });
+        
+        PrivateDependencyModuleNames.AddRange(new string[] { "GoogleProtocolBuffers" });
     }
 }
