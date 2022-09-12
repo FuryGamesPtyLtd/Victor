@@ -1,0 +1,6 @@
+[submodule "Plugins/Wakefield"]
+	path = Plugins/Wakefield
+	url = git@github.com:FuryGamesPtyLtd/Wakefield.git
+[submodule "Plugins/Tasmania"]
+	path = Plugins/Tasmania
+	url = git@github.com:FuryGamesPtyLtd/Tasmania

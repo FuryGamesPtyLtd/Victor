@@ -1,0 +1,14 @@
+
+/Saved/
+/Binaries/
+/DerivedDataCache/
+/Saved/
+/Script/
+/Intermediate/
+/Makefile
+/Build
+*_BuiltData.uasset
+/.vs
+/Victor.sln
+/.idea/
+/Config/HoloLens

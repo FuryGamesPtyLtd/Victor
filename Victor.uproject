@@ -1,0 +1,36 @@
+
+
+{
+    "FileVersion": 3,
+    "EngineAssociation": "release-vs2022",
+    "Category": "",
+    "Description": "",
+    "Modules": [
+        {
+            "Name": "Hobart",
+            "Type": "Runtime",
+            "LoadingPhase": "Default",
+            "AdditionalDependencies": [
+                "Engine"
+            ]
+        }
+    ],
+    "Plugins": [
+        {
+            "Name" : "Wakefield",
+            "Enabled": true
+        },
+        {
+            "Name" : "Tasmania",
+            "Enabled": true
+        },
+        {
+            "Name": "AndroidFileServer",
+            "Enabled": false
+        }
+    ],
+    "TargetPlatforms": [
+        "Windows",
+        "Linux"
+    ]
+}
